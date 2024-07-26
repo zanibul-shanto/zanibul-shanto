@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker,AWS.**
 
-💬 Ask me about **>.NET, HTML, CSS... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **>.NET, HTML, CSS... or anything [here](https://github.com/zanibul-shanto/zanibul-shanto/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
